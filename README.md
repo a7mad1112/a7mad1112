@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I've been learning to code for 2 years.
-
 * 🌍  I'm based in Palestine-Jenin
 * ✉️  You can contact me at [ahmalawneh79@gmail.com](mailto:ahmalawneh79@gmail.com)
 * 🧠  I'm learning Back-End
