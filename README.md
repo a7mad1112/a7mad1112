@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alawneh</h1>
 <h3 align="center">A passionate frontend developer from palestine</h3>
 
-- 👨‍💻 All of my projects are available at [https://sparkling-squirrel-a41118.netlify.app/](https://sparkling-squirrel-a41118.netlify.app/)
+- 👨‍💻 My portfolio [https://sparkling-squirrel-a41118.netlify.app/](https://sparkling-squirrel-a41118.netlify.app/)
 
 - 📝 I regularly write articles on [https://t.me/ProgrammerLevi](https://t.me/ProgrammerLevi)
 
