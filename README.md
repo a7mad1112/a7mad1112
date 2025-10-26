@@ -8,13 +8,13 @@
 
 
 
-- 👨‍💻 [My Portfolio](https://sparkling-squirrel-a41118.netlify.app/)
+- 👨‍💻 [My Portfolio](https://ahmedalawneh.me)
 
 - 📝 I regularly write articles on [Telegram](https://t.me/ProgrammerLevi)
 
 - 📫 How to reach me **ahmalawneh79@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VJaJlG_ZAawWeI0eCCXqjUK7CQWLx4Q3/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1YN-oLrw7Nz2QLTl6bLATPfwdZqiUGRw_/edit?usp=sharing&ouid=118427560371611696324&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
